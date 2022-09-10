@@ -1,0 +1,5 @@
+RewriteEngine On
+ErrorDocument 404 /ims_vj/error/404.php
+ErrorDocument 500 /ims_vj/error/500.php
+
+
